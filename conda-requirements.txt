@@ -11,6 +11,6 @@ netcdf4
 pyspharm >= 1.0.8
 
 # Extra dependencies for running the example notebook:
-ipython-notebook
+jupyterlab
 iris
 cube_browser
